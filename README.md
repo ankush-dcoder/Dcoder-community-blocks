@@ -1,3 +1,5 @@
+> Note : The repository has been archived and new PRs are not accepted.
+
 [To get access to Dcoder's low code, apply here.](https://bit.ly/3K6MCo8)
 
 # Dcoder-community-blocks
